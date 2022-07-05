@@ -27,4 +27,64 @@ body{
     box-shadow:5px 5px 5px gray;
 }.secoundRow img{
     width: 90%;
+}.about{
+    background-image: url(../PrecticeP1/eat-healthy-main/images/shapes/Frame\ 58.jpg);
+    width: 100;
+    background-size: cover;
+    background-repeat: no-repeat;
+}.about h1{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 50px;
+}.aboutUs{
+    display: flex;
+}.aboutImg{
+    width: 50%;
+    padding-left: 5%;
+}.aboutRow{
+    width: 50%;
+    padding-right: 5%;
+}.aboutRow p{
+    font-style: 20px;
+    padding-bottom: 40px;
+    padding-top: 15px;
+}.aboutRow h2{
+    padding-top: 50px;
+}.aboutRow a{
+    text-decoration: none;
+    padding: 10px 40px;
+    color: white;
+    background-image: linear-gradient(#FA9049, #F84C2F);
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px gray;  
+}.myRecipie{
+    text-align: center;
+}.myRecipie h1{
+    font-size: 50px;
+}.card{
+    display: flex;
+    padding-bottom: 100px;
+
+}.card1{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 2.5;
+    box-shadow: 5px 5px 5px 5px gray;
+    border-radius: 20px;
+}.card2{
+    width: 50%;
+    margin-left: 2.5%;
+    margin-right: 5%;
+    box-shadow: 5px 5px 5px 5px gray;
+    border-radius: 20px;
+}.card1 img{
+    height: 400px;
+    width: 480px;
+    border-radius: 40px;
+}.card2 img{
+    height: 400px;
+    width: 480px;
+    border-radius: 40px;
+    padding-left: 50px;
+    text-align: center;
 }
