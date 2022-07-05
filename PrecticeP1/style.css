@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: poppins;
+}.heroSection{
+    display: flex;
+}.firstRow{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 2.5%;
+    padding-top: 50px;
+}.firstRow h1{
+    font-size: 60px;
+}span{
+    color: #F84C2F;
+}.secoundRow{
+    width: 50%;
+}.firstRow p{
+    font-size: 20px;
+    padding-bottom: 20px;
+}.firstRow a{
+    text-decoration: none;
+    color: white;
+    border-radius: 25px;
+    background-image: linear-gradient(#FA9049, #F84C2F);
+    padding: 10px 40px;
+    box-shadow:5px 5px 5px gray;
+}.secoundRow img{
+    width: 90%;
+}
